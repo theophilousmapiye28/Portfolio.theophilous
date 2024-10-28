@@ -314,7 +314,7 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/images\ \(14\).jpg) right bottom no-repeat;
+    
     background-size: contain;
 }
 
@@ -643,6 +643,14 @@ a:focus {
 
 .experience .exp-col p {
     margin: 0;
+}
+
+
+.skiri {
+    position: relative;
+    padding: 60px 30px 30px 30px;
+    background: #ffffff;
+    border-bottom: 30px solid #F6D155;
 }
 
 
